@@ -1,0 +1,19 @@
+{
+  "last-version" : "1.0.0.0",
+  "releases" : [
+      {
+        "version" : "1.0.0.0",
+        "date" : "2018-01-25",
+        "notes" : [
+            {
+              "type" : "fix",
+              "note" : "Test"
+            },
+            {
+              "type" : "fix",
+              "note" : "Test"
+            }
+          ]
+      }
+    ]
+}
