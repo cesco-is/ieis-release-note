@@ -7,11 +7,11 @@
         "notes" : [
             {
               "type" : "fix",
-              "note" : "Test"
+              "note" : "Test final"
             },
             {
               "type" : "fix",
-              "note" : "Test"
+              "note" : "Test final\n테스트입니다\ncommit테스트"
             }
           ]
       }
