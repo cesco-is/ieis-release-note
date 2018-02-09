@@ -1,6 +1,17 @@
 {
-  "current-version-seqn" : 7,
+  "current-version-seqn" : 8,
   "releases" : [
+    {
+      "version-seqn" : 8,
+      "version" : "3.1.0.6",
+      "date" : "18-02-09(금) 13:30",
+      "notes" : [
+        {
+          "type" : "f",
+          "note" : "*개인재고관리 > 개인재고이동팝업* 에서 1이상으로 입력이 안되던 현상을 수정하였습니다."
+        }
+      ]
+    },
     {
       "version-seqn" : 7,
       "version" : "3.1.0.5",
