@@ -1,6 +1,17 @@
 {
-  "current-version-seqn" : 9,
+  "current-version-seqn" : 10,
   "releases" : [
+    {
+      "version-seqn" : 10,
+      "version" : "3.1.1.1",
+      "date" : "18-02-21(수) 20:10",
+      "notes" : [
+        {
+          "type" : "f",
+          "note" : "메인에서 무료진단고객이 접수가 되더라도 무료진단이 0으로 표시 되던 문제를 수정하였습니다."
+        }
+      ]
+    },
     {
       "version-seqn" : 9,
       "version" : "3.1.1.0",
