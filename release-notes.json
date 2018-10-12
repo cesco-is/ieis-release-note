@@ -1,6 +1,17 @@
 {
-  "current-version-seqn" : 21,
+  "current-version-seqn" : 22,
   "releases" : [
+    {
+      "version-seqn" : 22,
+      "version" : "3.2.2.3",
+      "date" : "18-10-12(금) 13:00",
+      "notes" : [
+        {
+          "type" : "n",
+          "note" : "고객지정일 청구 시행여부 (고객반응 체크) 기능이 오픈 되었습니다."
+        }
+      ]
+    },
     {
       "version-seqn" : 21,
       "version" : "3.2.2.2",
