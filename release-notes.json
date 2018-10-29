@@ -1,6 +1,17 @@
 {
-  "current-version-seqn" : 24,
+  "current-version-seqn" : 25,
   "releases" : [
+    {
+      "version-seqn" : 25,
+      "version" : "3.2.2.6",
+      "date" : "18-10-29(월) 10:30",
+      "notes" : [
+        {
+          "type" : "n",
+          "note" : "SRS 활성화를 위한 위치정보의 수집 및 이용 동의서 관련해서 업데이트가 되었습니다."
+        }
+      ]
+    },
     {
       "version-seqn" : 24,
       "version" : "3.2.2.5",
