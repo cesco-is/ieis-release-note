@@ -1,6 +1,17 @@
 {
-  "current-version-seqn" : 26,
+  "current-version-seqn" : 27,
   "releases" : [
+    {
+      "version-seqn" : 27,
+      "version" : "3.2.2.8",
+      "date" : "18-11-15(목) 18:30",
+      "notes" : [
+        {
+          "type" : "f",
+          "note" : "개인재고관리 화면 > 개별지급 신청 화면에서 고객 검색이 불가능 했던 오류에 대해서 수정 하였습니다."
+        }
+      ]
+    },
     {
       "version-seqn" : 26,
       "version" : "3.2.2.7",
