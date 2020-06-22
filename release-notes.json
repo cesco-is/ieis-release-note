@@ -1,7 +1,20 @@
 {
-  "current-version-seqn" : 31,
+  "current-version-seqn" : 32,
   "releases" : [
     {
+      "version-seqn" : 32,
+      "version" : "54.33",
+      "date" : "20-06-22(월) 19:20",
+      "notes" : [
+        {
+          "type" : "f",
+          "note" : "해충 숫자키패드가 안나오는 문제 해결 외 버그 9건 수정"
+        },{
+          "type" : "i",
+          "note" : "카드승인조회 환경위생용품 추가(식자재관리라벨 681E 추가)"
+        }
+      ]
+    },{
       "version-seqn" : 31,
       "version" : "54.30",
       "date" : "20-06-15(월) 19:00",
