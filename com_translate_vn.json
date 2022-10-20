@@ -1,10 +1,11 @@
 {
 "list": 
 [
+{"MN_CD":"A000000001","MN_NM":"Outside"},
 {"MN_CD":"A000000214","MN_NM":"Côn trùng"},
 {"MN_CD":"A000001632","MN_NM":"Kiểm tra thiết bị"},
-{"MN_CD":"A000010025","MN_NM":"nước hoa không khí"},
 {"MN_CD":"A000004626","MN_NM":"chấm dứt"},
+{"MN_CD":"A000010025","MN_NM":"nước hoa không khí"},
 {"MN_CD":"A000010026","MN_NM":"Bạn có chắc chắn muốn thoát khỏi chương trình không?"}
 ]
 }
