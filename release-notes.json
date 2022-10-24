@@ -1,6 +1,20 @@
 {
-  "current-version-seqn" : 33,
+  "current-version-seqn" : 34,
   "releases" : [
+    {
+      "version-seqn" : 34,
+      "version" : "66.2",
+      "date" : "22-10-24(월) 19:20",
+      "notes" : [
+        {
+          "type" : "f",
+          "note" : "파트작업현황 화면 권한오류 수정"
+        },{
+          "type" : "i",
+          "note" : "서비스확인서 출력화면 서비스관련 컨텐츠 추가사항 반영"
+        }
+      ]
+    },
     {
       "version-seqn" : 33,
       "version" : "66.0",
