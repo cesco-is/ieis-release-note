@@ -1,6 +1,20 @@
 {
-  "current-version-seqn" : 34,
+  "current-version-seqn" : 35,
   "releases" : [
+    {
+      "version-seqn" : 35,
+      "version" : "67.0",
+      "date" : "22-10-27(목) 19:20",
+      "notes" : [
+        {
+          "type" : "i",
+          "note" : "파트작업현황 화면 전체사원오픈 및 권한처리
+        },{
+          "type" : "i",
+          "note" : "SRS 커스텀카메라뷰 옵션기능 탑재"
+        }
+      ]
+    },
     {
       "version-seqn" : 34,
       "version" : "66.2",
