@@ -1,6 +1,20 @@
 {
-  "current-version-seqn" : 35,
+  "current-version-seqn" : 36,
   "releases" : [
+    {
+      "version-seqn" : 36,
+      "version" : "67.6",
+      "date" : "22-11-08(화) 19:20",
+      "notes" : [
+        {
+          "type" : "i",
+          "note" : "파트작업현황 화면 현장의견 반영"
+        },{
+          "type" : "f",
+          "note" : "회수확인서 삭제화면 '이관회수' 유형 미조회되는 부분 수정"
+        }
+      ]
+    },
     {
       "version-seqn" : 35,
       "version" : "67.0",
