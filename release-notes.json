@@ -1,6 +1,26 @@
 {
-  "current-version-seqn" : 36,
+  "current-version-seqn" : 37,
   "releases" : [
+    {
+      "version-seqn" : 37,
+      "version" : "67.18",
+      "date" : "22-12-12(월) 19:20",
+      "notes" : [
+        {
+          "type" : "i",
+          "note" : "신입(SC) 케어프로그램 개선사항 반영"
+        },{
+          "type" : "i",
+          "note" : "FS서비스 종료 시 서비스시간 15분 미만 시 알림기능 반영"
+        },{
+          "type" : "i",
+          "note" : "월별FS서비스 현황조회 신규화면 반영"
+        },{
+          "type" : "i",
+          "note" : "CLC 전자계약서 개선사항 반영"
+        }
+      ]
+    },
     {
       "version-seqn" : 36,
       "version" : "67.6",
@@ -26,34 +46,6 @@
         },{
           "type" : "i",
           "note" : "SRS 커스텀카메라뷰 옵션기능 탑재"
-        }
-      ]
-    },
-    {
-      "version-seqn" : 34,
-      "version" : "66.2",
-      "date" : "22-10-24(월) 19:20",
-      "notes" : [
-        {
-          "type" : "f",
-          "note" : "파트작업현황 화면 권한오류 수정"
-        },{
-          "type" : "i",
-          "note" : "서비스확인서 출력화면 서비스관련 컨텐츠 추가사항 반영"
-        }
-      ]
-    },
-    {
-      "version-seqn" : 33,
-      "version" : "66.0",
-      "date" : "22-10-19(수) 19:20",
-      "notes" : [
-        {
-          "type" : "f",
-          "note" : "장비모니터링 등록화면 뒤로가기 버튼 클릭 후 화면이동관련 이슈 수정"
-        },{
-          "type" : "i",
-          "note" : "통합이관(루트센싱) 개선사항 반영"
         }
       ]
     }
