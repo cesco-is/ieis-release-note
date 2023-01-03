@@ -1,6 +1,20 @@
 {
-  "current-version-seqn" : 37,
+  "current-version-seqn" : 38,
   "releases" : [
+    {
+      "version-seqn" : 38,
+      "version" : "67.27",
+      "date" : "23-1-03(화) 19:20",
+      "notes" : [
+        {
+          "type" : "f",
+          "note" : "장비모니터링 등록화면 해충모니터링등록 후 소모품 등록 시 이슈발생건 수정"
+        },{
+          "type" : "i",
+          "note" : "고객정보열람화면 - 장비위약금계산 탭화면 신규추가"
+        }
+      ]
+    },
     {
       "version-seqn" : 37,
       "version" : "67.18",
@@ -32,20 +46,6 @@
         },{
           "type" : "f",
           "note" : "회수확인서 삭제화면 '이관회수' 유형 미조회되는 부분 수정"
-        }
-      ]
-    },
-    {
-      "version-seqn" : 35,
-      "version" : "67.0",
-      "date" : "22-10-27(목) 19:20",
-      "notes" : [
-        {
-          "type" : "i",
-          "note" : "파트작업현황 화면 전체사원오픈 및 권한처리"
-        },{
-          "type" : "i",
-          "note" : "SRS 커스텀카메라뷰 옵션기능 탑재"
         }
       ]
     }
